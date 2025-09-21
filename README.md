@@ -1,3 +1,3 @@
-<h2><b>Мой пет-проект по созданию приложения заметок.</b></h2>
+<h2><b>My pet project is to create a notes app.</b></h2>
 
-В проекте есть авторизация, поэтому каждый пользователь владеет своими заметками. Посмотреть чужие заметки не сможет никто. Проект протестировался на базовые уязвимости и дыры. 
+Authorization is implemented in the project, so each user owns his notes. No one can view other people's notes. The project has been tested for basic vulnerabilities and holes.
